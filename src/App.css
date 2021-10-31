@@ -1,0 +1,122 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+
+a{
+  text-decoration: none;
+}
+body {
+  background: rgb(234, 238, 243) !important;
+}
+.all-wrapper{
+  max-width: 1166px;
+  margin: auto;
+}
+
+.all-wrapper-inner{
+width:100%;
+float: left;
+min-height: 350px;
+background: #fff;
+padding: 14px;
+margin-top: 25px;
+border-radius: 9px;
+box-shadow: -8px 12px 18px 0 #dadee8;
+  }
+.h1-all {
+  margin-bottom: 0px;
+  border-left: solid 3px #3f51b5;
+  padding-left: 20px;
+  line-height: 25px;
+  padding-bottom: 6px;
+  margin-top: 42px;
+  font-size: 30px;
+}
+.emp_details{
+  background: #fff;
+    max-width: 50%;
+    padding: 15px;
+    margin: 80px auto;
+    border: 2px dashed #b9b9b9;
+    border-radius: 5px;
+    padding-top: 52px;
+    position: relative;
+    padding-left: 32px;
+}
+.emp_details h1 {
+  position: absolute;
+  top: -27px;
+  font-size: 20px;
+  border: dashed 2px #ddd;
+  background: #fff;
+  padding: 10px 20px;
+  border-radius: 40px;
+}
+.emp_details h3 {
+  font-size: 16px;
+}
+button.btn-gohome {
+  background: #3baeff;
+  color: #fff;
+}
+.emp_details h3 b {
+  width: 180px;
+  float: left;
+}
+.action_button{
+  margin: 1px 5px !important;
+}
+.h2Stly{
+  color:#000;
+ 
+}
+
+.MuiAppBar-colorPrimary a {
+  color: #fff;
+  text-decoration: none;
+}
+h6.MuiTypography-h6 {
+    text-align: center;
+    /* border: solid; */
+    font-size: 29px;
+    color: #fdf3ca;
+}
+
+.table-custom thead th {
+  background: #d3ecef;
+  padding: 7px 4px;
+  font-size: 14px;
+}
+
+.table-custom thead td{
+  padding: 7px 4px;
+  font-size: 14px;
+}
+.table-custom thead td a{
+text-decoration: none !important;
+}
+.btn.btn-custom {
+  padding: 2px 10px;
+  font-size: 13px;
+}
+.MuiPaper-elevation3 {
+  margin-top: 10px !important;
+}
+.h1-custom-two {
+  font-size: 30px;
+  margin: 11px 6px 25px 10px;
+  border-left: 2px solid #3f51b5;
+  padding-left: 15px;
+}
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+  transform: translate(14px, -2px) scale(0.75) !important;
+}
+.btn-area-right {
+  width: auto;
+  float: right;
+  bottom: 16px;
+  position: relative;
+}
+.con-title {
+  background: red;
+  color: white;
+}
